@@ -1,0 +1,7 @@
+1:
+man grep -> grep -C
+(-C NUM, -NUM, --context=NUM Print  NUM  lines  of  output context.  Places a line containing a group separator (--) between  contiguous groups  of  matches.  With the -o or --only-matching option, this has no effect and a warning is given.)
+2:
+sudo find /etc -type f -name "*.conf"
+3:
+head -n 1099 data.csv | tail -n 100
